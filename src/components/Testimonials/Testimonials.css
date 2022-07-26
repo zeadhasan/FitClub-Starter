@@ -26,7 +26,6 @@
   letter-spacing: 2px;
   line-height: 40px;
 }
-
 .right-t {
   flex: 1;
   position: relative;
@@ -56,14 +55,14 @@
   right: 7rem;
   background: var(--planCard);
 }
-.arrows{
-    display: flex;
-    gap: 1rem;
-    position: absolute;
-    bottom: 1rem;
-    left: 3rem;
+.arrows {
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  bottom: 1rem;
+  left: 3rem;
 }
-.arrows>img{
-    width: 1.5rem;
-    cursor: pointer;
+.arrows > img {
+  width: 1.5rem;
+  cursor: pointer;
 }
